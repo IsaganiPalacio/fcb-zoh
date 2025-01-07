@@ -1,4 +1,4 @@
-aboutme.txt
+.txt
 First Name: Isagani 
 Last Name: Palacio
 Motivation:
