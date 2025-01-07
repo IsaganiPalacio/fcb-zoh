@@ -1,3 +1,5 @@
 aboutme.txt
 First Name: Isagani 
 Last Name: Palacio
+Motivation:
+Technology is advancing, Learning and mastering to it will be a high advantage to individuals. My Motivation is to be knowledgeable and to be the best version of my self when it comes to webdevelopment to earn and to pass this knowledge to the people who also aim for carrer development.
